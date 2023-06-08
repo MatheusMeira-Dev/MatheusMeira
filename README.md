@@ -27,7 +27,7 @@
 </div></br>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="./source/octocat-1686233142529.png" />
 
 
 
