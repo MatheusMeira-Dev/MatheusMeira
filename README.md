@@ -27,10 +27,6 @@
 </div></br>
 
 
-<img src="./source/octocat-1686233142529.png" />
-
-
-
 <h5>- Contatos:<h5/>
  
 <div> 
@@ -47,3 +43,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMeira-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusMeira-Dev&hide_border=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs,date" height="150"/>
 </div>
+
+  <br/>
+  
+  <img src="./source/octocat-1686233142529.png" />
