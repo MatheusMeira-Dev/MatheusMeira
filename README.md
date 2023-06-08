@@ -35,9 +35,9 @@
 
 <div align="center">
 <a href="https://github.com/MatheusMeira-Dev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMeira-Dev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMeira-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusMeira-Dev&hide_border=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs,date"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusMeira-Dev&hide_border=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs,date" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&theme=tokyonight&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&hide_border=true&username=MatheusMeira-Dev" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=MatheusMeira-Dev" height="150" alt="languages graph"  />
 </div>
 
   <br/>
