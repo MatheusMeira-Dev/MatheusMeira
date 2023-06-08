@@ -1,9 +1,5 @@
 # Olá sou Matheus Meira Desenvolvedor 😄
 
-“Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças”
-
-
-
 - ⚡ Desenvolvedor WEB FullStack 
 - 🌱 Estudando Java Script, React e Node.JS
 
@@ -47,3 +43,4 @@
   <br/>
   
   <img src="./source/octocat-1686233142529.png" />
+  “Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças”
